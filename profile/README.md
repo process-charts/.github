@@ -19,7 +19,7 @@ Status
 
 <table>
 <th align="center">
-<img width="295" height="0">
+<img width="245" height="0">
 <p> 
 <small>
 User Integration 
@@ -27,7 +27,7 @@ User Integration
 </p>
 </th>
 <th align="center">
-<img width="295" height="0">
+<img width="245" height="0">
 <p> 
 <small>
 Element Creation
@@ -35,7 +35,7 @@ Element Creation
 </p>
 </th>
 <th align="center">
-<img width="295" height="0">
+<img width="245" height="0">
 <p> 
 <small>
 Helm Charts / Infra
